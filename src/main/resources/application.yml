@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring-boot-monog
+    name: spring-boot-monogo
 logging:
   file: app.log
 
